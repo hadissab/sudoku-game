@@ -1,6 +1,6 @@
 # sudoku-game
 This project is a classic Sudoku game,implemented in C++. It includes different difficulty levels and a user-friendly interface for an enjoyable experience.
-
+![Sudoku Game](images/Screenshot (102).png)
 # Features
  * Save your progress and load it later to continue playing.
  * Leaderboard for tracking your scores and compare them with other players. 
