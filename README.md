@@ -27,6 +27,8 @@ This project is a classic Sudoku game,implemented in C++. It includes different 
  2. Three Mistakes Rule: If a player makes three mistakes, they lose the game.
  3. Time Limit: If the timer runs out before the sudoku is completed, the player loses.
     ![Screenshot (107)](https://github.com/user-attachments/assets/8d4f5f72-23e8-4cdb-8e2a-edfe85445e4c)
-
+    
 # Author
 hadis sabery
+
+Enjoy playing.
